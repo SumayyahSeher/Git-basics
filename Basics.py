@@ -7,3 +7,6 @@ print ("my name is sumayyah seher")
 
 b= 65
 print (b)
+
+c=22
+print(c)
